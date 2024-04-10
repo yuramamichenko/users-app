@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Creation project commit.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/web/entity/User.java" afterDir="false" />
+    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Create User Class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/web/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/web/repository/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712730538483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed pom.xml">
+      <created>1712732097478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712732097478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create User Class">
+      <created>1712732135688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712732135689</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +93,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creation project commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creation project commit." />
+    <MESSAGE value="Changed pom.xml" />
+    <MESSAGE value="Create User Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create User Class" />
   </component>
 </project>
