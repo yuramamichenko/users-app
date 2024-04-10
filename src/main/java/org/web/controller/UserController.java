@@ -22,8 +22,10 @@ public class UserController {
         return "add-user";
     }
 
-    @GetMapping("/index")
+    @GetMapping({"/index", "/"})
     public String showUserList(Model model) {
+//        User user = new User(); user.setEmail("@mail"); user.setName("name");
+//        model.addAttribute("users", List.of(user));
         model.addAttribute("users", userRepository.findAll());
         return "index";
     }
