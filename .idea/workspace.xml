@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Now we can launch app">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/cssandjs/main.css" afterDir="false" />
+    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Configured H2DB connection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/web/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/web/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/web/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add-user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/update-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/update-user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/web/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/web/repository/UserRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712734327988</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add CSS">
+      <created>1712739420785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712739420785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Configured H2DB connection">
+      <created>1712745344347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712745344347</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +193,8 @@
     <MESSAGE value="Create Controller" />
     <MESSAGE value="Create html templates" />
     <MESSAGE value="Now we can launch app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now we can launch app" />
+    <MESSAGE value="Add CSS" />
+    <MESSAGE value="Configured H2DB connection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configured H2DB connection" />
   </component>
 </project>

@@ -1,5 +1,5 @@
 body {
-  background-color: beige;
+  background-color: green;
 }
 
 h2 {
@@ -15,3 +15,9 @@ table, th, td {
 }
 
 tr:hover {background-color: coral;}
+
+div, p {
+  margin: auto;
+  width: 50%;
+  padding: 15px;
+}
