@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Configured H2DB connection">
+    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Changed port from 8080 to 9999">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/styles/cssandjs/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/styles/cssandjs/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712745651472</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changed port from 8080 to 9999">
+      <created>1712828023670</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712828023670</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +210,7 @@
     <MESSAGE value="Now we can launch app" />
     <MESSAGE value="Add CSS" />
     <MESSAGE value="Configured H2DB connection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configured H2DB connection" />
+    <MESSAGE value="Changed port from 8080 to 9999" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed port from 8080 to 9999" />
   </component>
 </project>
