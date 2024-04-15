@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Changed port from 8080 to 9999">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Add build in DB" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712828023670</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add build in DB">
+      <option name="closed" value="true" />
+      <created>1713177862015</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713177862015</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +237,7 @@
     <MESSAGE value="Add CSS" />
     <MESSAGE value="Configured H2DB connection" />
     <MESSAGE value="Changed port from 8080 to 9999" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed port from 8080 to 9999" />
+    <MESSAGE value="Add build in DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add build in DB" />
   </component>
 </project>
