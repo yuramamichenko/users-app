@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Deploy commit">
-      <change afterPath="$PROJECT_DIR$/target/UsersApp-1.0-SNAPSHOT.jar" afterDir="false" />
+    <list default="true" id="9cea5af5-f18f-4c64-ad7c-6e48913ba7b5" name="Changes" comment="Add jar">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/UsersApp-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/UsersApp-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713368560295</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add jar">
+      <option name="closed" value="true" />
+      <created>1713368776070</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713368776070</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -335,6 +346,7 @@
     <MESSAGE value="Fix Dockerfile" />
     <MESSAGE value="Massive update" />
     <MESSAGE value="Deploy commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deploy commit" />
+    <MESSAGE value="Add jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add jar" />
   </component>
 </project>
